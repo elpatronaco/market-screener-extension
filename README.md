@@ -1,16 +1,11 @@
-# Chrome-Extension-Base-Template
-This is a basic Chrome Extension base template for starting new projects off of initialized with a MIT license.
-
-## Features
-- ..
-- ..
-- ..
+# Market Screener Bypass
+Bypass [Market Screener](marketscreener.com) free limits
 
 ## Author
-First Last
-- [Author Website]()
-- [Author Github]()
-- [Project Repository]()
+Pau Colomé
+- [Author Website](https://pau-colome-dev.vercel.app/)
+- [Author Github](https://github.com/elpatronaco)
+- [Project Repository](https://github.com/elpatronaco/market-screener-extension)
 
 ## Requirements
 ### Knowledge
@@ -31,11 +26,6 @@ First Last
 5. Click the button on the page that says "Load Unpacked"
 6. Navigate to your unzipped project folder and select that and hit OK.
 7. You are now ready to start working on the extension! Just make sure you reload after each change you make to see the changes take place.
-
-### For End Users
-1. ...
-2. ...
-3. ...
 
 ## License
 Please refer to LICENSE file.
